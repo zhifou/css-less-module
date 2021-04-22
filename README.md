@@ -1,2 +1,1 @@
-# css-less-module
-css module化工程框架
+# 这是一个css module化的工程实例
